@@ -1,4 +1,4 @@
-package bdcstepdefenitions;
+/*package bdcstepdefenitions;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -45,4 +45,4 @@ public class BDC_Demo_01_defenitions {
 		System.out.println("");
 	}
 
-}
+}*/
