@@ -1,4 +1,4 @@
-package bdcstepdefenitions;
+/*package bdcstepdefenitions;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -43,4 +43,4 @@ public void verefies_the_state_for_the_login_status() {
 	System.out.println("");
 }
 
-}
+}*/
